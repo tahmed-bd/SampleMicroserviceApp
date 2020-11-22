@@ -1,0 +1,6 @@
+{
+  "database.port" : 8008,
+  "authserver.port" : 8080,
+  "api.name": "database",
+  "api.host": "localhost"
+}

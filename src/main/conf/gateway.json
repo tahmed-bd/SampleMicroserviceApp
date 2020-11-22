@@ -1,0 +1,5 @@
+{
+  "api.port" : 8007,
+  "api.name" : "gateway",
+  "api.host": "localhost"
+}

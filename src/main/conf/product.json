@@ -1,0 +1,5 @@
+{
+  "api.port" : 8000,
+  "api.name" : "product_info",
+  "api.host": "localhost"
+}

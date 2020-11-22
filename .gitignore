@@ -1,0 +1,5 @@
+/.idea/
+/scripts/
+target/
+SampleMicroserviceApp.iml
+/.vertx/
